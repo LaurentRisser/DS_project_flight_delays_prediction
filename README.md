@@ -1,7 +1,7 @@
 ## Predicting flight delays in the U.S.
 ### Project Type: Data Analysis and Machine Learning
 
-In this project, I develop a model aimed at predicting flight delays at take-off. I comment on the importance of the separation of the dataset during the training stage and how cross-validation helps determine accurate model parameters. I show how to build linear and polynomial models for univariate or multivariate regressions.
+In this notebook, I develop a model aimed at predicting flight delays at take-off. The purpose is not to obtain the best possible prediction but rather to emphasize on the various steps needed to build such a model. Along this path, I then put in evidence some basic but important concepts. Among then, I comment on the importance of the separation of the dataset during the traning stage and how cross-validation helps in determing accurate model parameters. I show how to build linear and polynomial models for univariate or multivariate regressions and also, I give some insight on the reason why regularisation helps us in developing models that generalize well.
 
 ![US_map](US_map.png "US_map")
 
